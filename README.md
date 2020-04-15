@@ -32,4 +32,4 @@
 [Проект Промосайт сериала "Ведьмак"](https://parscifal.github.io/MyProject/Completed%20projects%20p.2/The%20Witcher/index.html "Проект является сайтом к сериалу Ведьмак")
 
 
-[Проект Мой партфолио недо-сайт]((https://parscifal.github.io/MyProject/Completed%20projects%20p.2/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D0%BE%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82)/index.html) "Мой первый законнченый сайт партфолио-недо-сайт")
+[Проект Мой партфолио недо-сайт](https://parscifal.github.io/MyProject/Completed%20projects%20p.2/%D0%97%D0%B0%D0%BA%D0%BE%D0%BD%D1%87%D0%B5%D0%BD%D0%BD%D0%BE%D0%BC%D0%BE%D0%B9%20%D0%BF%D0%B5%D1%80%D0%B2%D1%8B%D0%B9%20%D1%81%D0%B0%D0%B9%D1%82)/index.html "Мой первый законнченый сайт партфолио-недо-сайт")
