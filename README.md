@@ -13,7 +13,7 @@
 [Урок 8](https://parscifal.github.io/MyProject/dz8/index.html "Результат моего первого использвания Bootstrap 4")
 
 
-[Урок 9](https://parscifal.github.io/MyProject/dz1/index.html "Первый свёрстанный учебный сайт")
+[Урок 9](https://parscifal.github.io/MyProject/dz9/index.html "Первый свёрстанный учебный сайт")
 
 
 [Проект](https://parscifal.github.io/MyProject/Project/index.html "Дз по препроцессорма less")
