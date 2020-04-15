@@ -1,0 +1,15 @@
+*{
+  box-sizing: border-box;
+}
+.cells{
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      margin-bottom: 15px;
+}
+.title{
+  margin-top: 140px;
+  text-align: center;
+  margin-bottom: 170px;
+}
