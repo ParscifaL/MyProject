@@ -1,0 +1,215 @@
+*{
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+     font-family: 'Open Sans', sans-serif;
+}
+body{
+  font-family: sans-serif;
+    margin: 0;
+}
+.container-logo{
+    
+     margin-top: 105px;
+}
+.carts{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 106px;
+}
+.logo{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 77px;
+}
+.logo1{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 52px;
+}
+.carts-title{
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 24px;
+  color: #333333;
+}
+
+.text-carts{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 21px;
+}
+.icon-carts{
+  margin-top: 16px;
+  margin-left: 85px;
+  margin-bottom: 48px;
+}
+.Thoughtful-Design{
+  max-width: 350px;
+  margin-left: 64px;
+}
+.Well-crafted{
+  max-width: 350px;
+  margin-left: 64px;
+}
+.Easy{
+  max-width: 350px;
+  margin-left: 64px;
+}
+.title{
+  font-family: 'Raleway', sans-serif;
+  margin-bottom: 16px;
+}
+.line{
+    max-width: 71px;
+    max-height: 2px;
+    margin-bottom: 27px;
+}   
+/* bootstrap */
+.pricing{
+  padding-top: 103px;
+}
+.card-text-title{
+  font-weight: 600;
+  font-size: 14px;
+  line-height: 24px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #FFFFFF;
+}
+.pricing{
+  background-color: #F5F5F5;
+}
+.list-group-item{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #86878B;
+}
+.card1{
+  margin-bottom: 0;
+}
+.card-title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  color: #FFFFFF;
+  background-color: #303030;
+  margin-bottom: 1px;
+  height: 59px;
+}
+
+.card-text-title1{
+  font-weight: bold;
+  font-size: 14px;
+  line-height: 24px;
+  background-color: #FF8C2D;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 40px;
+  color: #FFFFFF;
+}
+.cards{
+  display: flex;
+  justify-content: center;
+  padding-bottom: 97px;
+}
+.card-body{
+  background-color: #303030;
+  padding-top: 0;
+  padding-bottom: 0;
+}
+.card-body1{
+  background-color: #303030;
+  padding-top: 0;
+  padding-bottom: 15px;
+}
+.card{
+  margin-left: 40px;
+  margin-bottom: 0;
+}
+.card-text::first-letter {
+  font-family: 'Raleway', sans-serif;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 24px;
+  color: #FFFFFF;
+}
+.card-text{
+  font-family: 'Raleway',sans-serif;
+  font-weight: bold;
+  font-size: 94px;
+  line-height: 24px;
+  margin-top: 45px;
+  color: #FFFFFF;
+  margin-left: 18%;
+}
+.card-text1{
+  font-family: 'Raleway',sans-serif;
+  font-weight: bold;
+  font-size: 94px;
+  line-height: 24px;
+  margin-top: 45px;
+  color: #FFFFFF;
+  margin-left: 8%;
+}
+.card-text2{
+  font-family: 'Raleway',sans-serif;
+  font-weight: bold;
+  font-size: 94px;
+  line-height: 24px;
+  margin-top: 45px;
+  color: #FFFFFF;
+}
+.testi-profile{
+  display: flex;
+  flex-direction: column;
+}
+.testi{
+  display: flex;
+  align-items: center;
+  margin-right: 70px;
+}
+.testi-glav{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-left: 120px;
+}
+
+.text-testi{
+      display: flex;
+      flex-wrap: wrap;
+      max-width: 237px;
+      margin-right: 20px;
+}
+.testi-glavn{
+  display: flex;
+  justify-content: center;
+}
+.profile-icon{
+  margin-right: 15px;
+}
+.testi-title{
+  margin-top: 25px;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 27px;
+  color: #333333;
+}
+.testi-title-m{
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+  color: #86878B;
+}
+.testimorials{
+  padding-top: 106px;
+}
